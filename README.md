@@ -1,1 +1,1 @@
-# Venom-2
+# Venom-2 - проект Glo Academy
